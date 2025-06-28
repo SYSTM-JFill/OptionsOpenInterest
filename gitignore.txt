@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Exported chart and data files
+/data/
+
+# Jupyter checkpoints (if you use any notebooks)
+.ipynb_checkpoints/
+
+# VS Code settings (optional, if using VS Code)
+.vscode/
